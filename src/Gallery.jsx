@@ -2,7 +2,7 @@ import styles from './Gallery.module.css'
 
 const photos = [
   { id: 1, title: 'Server Rack', image: '/images/server-rack.jpg' },
-  { id: 2, title: 'AI Workstation', image: '/images/ai-workstation.jpg' },
+  { id: 2, title: 'Ai Workstation', image: '/images/ai-workstation.jpg' },
 ]
 
 export default function Gallery() {
